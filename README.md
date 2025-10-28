@@ -6,8 +6,7 @@
 ![inpreview](https://i.imgur.com/VhNNgOs.jpeg)
 
 > [!IMPORTANT]
-> If you fork this repo please consider giving the original repo a
-> star. Thank you!
+> [Original Repo](https://github.com/eanutt1272/Space)
 
 ## Features
 
