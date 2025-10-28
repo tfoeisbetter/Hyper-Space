@@ -1,14 +1,28 @@
+# Node
 node_modules
 **/node_modules
-npm-debug.log
+
+# pnpm
+.pnpm
 pnpm-store
 .pnpm-store
-.pnpm
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.log
+
+# Environment
 .env
 .env.*
+
+# VCS and editor
 .git
 .vscode
 .DS_Store
+
+# Build output
 dist
 coverage
-*.log
+
