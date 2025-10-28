@@ -6,7 +6,8 @@
 ![inpreview](https://i.imgur.com/VhNNgOs.jpeg)
 
 > [!IMPORTANT]
-> [Original Repo](https://github.com/eanutt1272/Space)
+> The Original Repo for this got deleted. so this is the one i forked from:
+> [Forked Repo](https://github.com/eanutt1272/Space)
 
 ## Features
 
@@ -59,8 +60,5 @@ before submitting a pull request. Please check [contributing.md](https://github.
 
 Thank you to the following people for contributing to Space.
 
-[![Contributors](https://contrib.rocks/image?repo=nightproxy/space)](https://github.com/NightProxy/Space/graphs/contributors)
 
-## Discord
 
-[![Discord](https://invidget.switchblade.xyz/QmWUfvm4bn?theme=dark)](https://discord.gointospace.app)
