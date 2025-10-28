@@ -6,7 +6,7 @@
 ![inpreview](https://i.imgur.com/VhNNgOs.jpeg)
 
 > [!IMPORTANT]
-> The Original Repo for this got deleted. so this is the one i forked from:
+> The Original Repo for this got deleted. So this is the one i forked from:
 > [Forked Repo](https://github.com/eanutt1272/Space)
 
 ## Features
@@ -28,8 +28,8 @@
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/NightProxy/space.git
-cd Space
+git clone https://github.com/tfoeisbetter/Hyper-Space.git
+cd Hyper-Space
 pnpm i
 pnpm start
 ```
@@ -41,7 +41,7 @@ git pull --force --allow-unrelated-histories
 ```
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/NightProxy/Space"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/NightProxy/Space"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/tfoeisbetter/Hyper-Space"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://app.cyclic.sh/api/app/deploy/NightProxy/Space"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
 
 ## Where to ask for help
