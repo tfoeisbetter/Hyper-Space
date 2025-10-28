@@ -47,18 +47,19 @@ git pull --force --allow-unrelated-histories
 ## Where to ask for help
 
 > [!NOTE]
-> If you'd like to get links, support, or other deployment methods join
-> our [Discord Server](https://discord.gointospace.app) or open a discussion.
+> If you'd like to get links, support, or other deployment methods
+> i will have a google doc.
+>  i will update it every 2 days
 
 ## Contribution
 
 To contribute to Space, clone the repo locally and submit your code in a pull
 request. If you are making large changes, please make sure you test your code
-before submitting a pull request. Please check [contributing.md](https://github.com/NightProxy/Space/blob/main/contributing.md) for a more in-depth explanation.
+before submitting.
 
 ## Contributors
 
-Thank you to the following people for contributing to Space.
+Thank you to the Original Contributors for contributing to Space.
 
 
 
